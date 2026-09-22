@@ -18,7 +18,7 @@ The project investigated how feature representations from the vision transformer
 
 <br clear="right">
 
-<img align="left" width="320" src="Figure/prediction_s0727_trainsize2.0.png" alt="Comparison of segmentation results across sagittal, axial and coronal CT slices">
+<img align="left" width="320" src="Figures/prediction_s0727_trainsize2.0.png" alt="Comparison of segmentation results across sagittal, axial and coronal CT slices">
 
 The conclusion of the project were the development and evaluation of 3 different models that were able to predict full body 3D CT volumes. 
 The full project and the final report can be found in the [Github repostery](https://github.com/IdaPug/3D-Medical-Image-Segmentation-Using-DINO-Feature-Representations)
