@@ -6,10 +6,9 @@ Copenhagen, Denmark
 [idapug7658@gmail.com](mailto:idapug7658@gmail.com)
 
 
-## Selected Projects
 # Selected Projects
-### [3D Medical Image Segmentation Using DINO Feature Representations](https://github.com/IdaPug/3D-Medical-Image-Segmentation-Using-DINO-Feature-Representations)
-*Master's thesis,  DTU Compute, Supervised by Anders Bjorholm Dahl and William Michael Laprade*
+## Master Thesis: 3D Medical Image Segmentation Using DINO Feature Representations
+*Supervised by Anders Bjorholm Dahl (abda@dtu.dk) and William Michael Laprade (willap@dtu.dk)*
 
 <img align="right" width="320" src="Figures/Front3D.png" alt="">
 
@@ -25,6 +24,20 @@ The full project and the final report can be found in the [Github repostery](htt
 
 <br clear="right">
 
+__Skills__: Deep Learning, Computer Vision, Vision Transformers, 3D data, Raw data processing, Feature Fusion, U-Net, Self-Supervised Learning, Python, PyTorch, HPC
+
+
+## Bachelor Thesis: Signal to noise properties in 4D hyperspectral x-ray datasets  
+*Supervised by Jakob Sauer Jørgensen (jakj@dtu.dk) and Ulrik Lund Olsen (ullu@fysik.dtu.dk)*
+
+The project investigated the impact of different acquisitions parameters on reconstruction quality in hyperspectral X-ray imaging. The goal of the projects was to determine optimal acquisition configurations and demonstrating how different figure of merit on assessing reconstruction quality. 
+The full project and the final report can be found in the [Github repostery](https://github.com/IdaPug/Bachelor_project_2023)
+
+<img src="Figures/mat_image.png" width="230"> <img src="Figures/proj420.png" width="230"> <img src="Figures/GT_curves_the_ones_0_127points_.png" width="230">
+
+The main work of the project was done using the Core Imaging Library (CIL) python library and therefore was an additional objective of the project to establish a CIL workflow tailored to hyperspectral X-ray projection for future users. This have en demostrated to a [notebook](https://github.com/TomographicImaging/CIL-User-Showcase/blob/main/007_Hyperspectral_regularisation/Hyperspectral_regularisation.ipynb), which was developed during the CCPI: CIL Training and Bring You Own Data User Hackathon, which I was invited to participate in.
+
+__Skills__: Inverse Problems & Regularisation, Scientific Computing, Noisy data, Python, Computed Tomography, Optimization, Data Analysis, Qualitative image analysis, 
 
 
 
