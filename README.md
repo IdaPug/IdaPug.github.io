@@ -11,7 +11,7 @@ Copenhagen, Denmark
 ### [3D Medical Image Segmentation Using DINO Feature Representations](https://github.com/IdaPug/3D-Medical-Image-Segmentation-Using-DINO-Feature-Representations)
 *Master's thesis,  DTU Compute, Supervised by Anders Bjorholm Dahl and William Michael Laprade*
 
-<img align="right" width="320" src="Figure/Front3D.png" alt="">
+<img align="right" width="320" src="Figures/Front3D.png" alt="">
 
 The project investigated how feature representations from the vision transformer foundation model DINOv3 could be utilised to improve 3D medical image segmentation when integrated into traditional U-Net architecture. The goal of the project was to create a model that could produce accurate segmentations, while relying on small amount of manually annotated training data.
 
