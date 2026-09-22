@@ -24,6 +24,7 @@ The full project and the final report can be found in the [Github repostery](htt
 
 <br clear="right">
 
+
 __Skills__: Deep Learning, Computer Vision, Vision Transformers, 3D data, Raw data processing, Feature Fusion, U-Net, Self-Supervised Learning, Python, PyTorch, HPC
 
 
@@ -39,5 +40,11 @@ The main work of the project was done using the Core Imaging Library (CIL) pytho
 
 __Skills__: Inverse Problems & Regularisation, Scientific Computing, Noisy data, Python, Computed Tomography, Optimization, Data Analysis, Qualitative image analysis, 
 
+## Exploring Probabilistic Techniques in Chan-Vese Segmentation
+*Group project for the couse: 02506 Advanced Image Analysis* 
+Explored probabilistic extensions to the classical Chan-Vese snake-based segmentation algorithm, which struggles when foreground and background don't separate cleanly by mean intensity. Implemented and compared two approaches, an intensity-based method using per-region pixel histograms, and a patch-based method using k-means clustering on local image patches. Tested both against a simple synthetic image and a real, cluttered tiger photo.
+<img src="Figures/TigerChaineVerse.png">
+<img src="Figures/poster04.png">
 
 
+__Skills__: Image analysis, Segmentation, Probabilistic Modelling, K-means Clustering, Image Python
