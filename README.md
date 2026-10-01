@@ -51,6 +51,7 @@ __Skills__: MLOps, CI/CD, Docker, Unit testing, Debugging & Profiling, Google Cl
 *Group project for the course: 42186 Model-based machine learning*
 I participated in a project on movie ratings predictions. The projects explored how hierarchical regression models could be used to predict movie ratings using the
 MovieLens dataset. In the projects three probabilistic hierarchical regression models of varying complexity were defined and inference were run to estimate parameters. We were able to determine the models and predict users movie ratings.
+
 <img src="Figures/model_based_model.png" width="230"> <img src="Figures//model_based_training.png" width="230">
 
 
